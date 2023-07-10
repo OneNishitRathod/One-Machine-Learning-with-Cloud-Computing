@@ -1,0 +1,1 @@
+Namaste, my name is today I will be doing an assignment of AWS that is amazon Web service. In this assignment, I'm going to transcribe the audio file with amazon Transcribe. That is an AI service. Also, I will be using Lambda function And as three bucket.
